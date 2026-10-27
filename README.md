@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BDOW! is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bdow.com/
+BDOW! is a lead generation and email capture platform that provides tools for creating forms, pop‑ups, and landing pages to grow website visitor lists. The service offers customizable templates, A/B testing, analytics, and integrations with marketing and CRM systems. It targets marketers, small businesses, and agencies looking to increase conversions and capture leads directly from their sites.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bdow.com/)
+- [Documentation](https://bdow.com/features)
+- [Getting started](https://help.bdow.com/en/articles/9114583-getting-started-with-shortcuts)
+- [API reference](https://api.bdow.com/docs)
+- [Pricing](https://bdow.com/pricing)
+- [Sign up](https://bdow.com/register)
+- [Changelog](https://bdow.com/stories/whats-new/)
+- [Blog](https://bdow.com/stories)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bdow/](https://apis.io/providers/bdow/).
